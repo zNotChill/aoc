@@ -30,24 +30,20 @@ let elfCal = 0;
  *  PART 2: Find the Top 3 Elves with the most calories
  */
 
-function part2() { // This part does not work in JS! :(
-	let top3arr = [];
-	input.forEach((v) => {	
-		if (v === "") { // a new inventory
-			elfCounter++;
-			elfCal = 0;
-		} else {
-			elfCal += parseInt(v)
-		}
+function part2() {
 	
-		if(elfCal > curMost) {
-			top3arr.push(elfCal)
-			curMost = elfCal
-		}
-	
+	let elfCal = 0
+	const top3arr = []
+	input.forEach((v) => {    
+	if (v === "") {
+		top3arr.push(elfCal)
+		elfCal = 0
+	} else {
+		elfCal += parseInt(v)
+	}
 	})
-	top3arr.sort((a, b) => a < b ? 1 : a > b ? -1 : 0);
-	let top3cal = top3arr[0] + top3arr[1] + top3arr[2]
-	console.log(`Top: ${top3cal}`);
+	top3arr.sort((a, b) => b - a)
+	console.log(top3arr[0] + top3arr[1] + top3arr[2])
+	// Credit: irek#8320
 }
 part2()
