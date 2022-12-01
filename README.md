@@ -6,30 +6,30 @@
 
 Every day we will use a new language.
 
-| Day  | Language  |
-|---|---|
-| 1  | JavaScript |
-| 2  | C |
-| 3  | C++  |
-| 4  | C#  |
-| 5  | Go |
-| 6  | Java  |
-| 7  | Rust |
-| 8  | Kotlin  |
-| 9  | Skript  |
-| 10 | Swift  |
-| 11 | Lua  |
-| 12 | Ruby  |
-| 13 | Jupyter Notebook  | 
-| 14 | TypeScript  |
-| 15 | Julia  |
-| 16 | Bash  |
-| 17 | R  |
-| 18 | Dart  |
-| 19  | Cython (Python with C extensions)  |
-| 20  | Zap  |
-| 21  | Ruby |
-| 22  | Groovy  |
-| 23  | Nim  |
-| 24  | Python  |
-| 25  | Commodore BASIC  |
+| Day  | Language | Status |
+|---|---|--|
+| 1  | JavaScript | Done |
+| 2  | C | Not Done |
+| 3  | C++  | Not Done |
+| 4  | C#  | Not Done |
+| 5  | Go | Not Done |
+| 6  | Java  | Not Done |
+| 7  | Rust | Not Done |
+| 8  | Kotlin  | Not Done |
+| 9  | Skript  | Not Done |
+| 10 | Swift  | Not Done |
+| 11 | Lua  | Not Done |
+| 12 | Ruby  | Not Done |
+| 13 | Jupyter Notebook  |  Not Done |
+| 14 | TypeScript  | Not Done |
+| 15 | Julia  | Not Done |
+| 16 | Bash  | Not Done |
+| 17 | R  | Not Done |
+| 18 | Dart  | Not Done |
+| 19  | Cython (Python with C extensions)  | Not Done |
+| 20  | Zap  | Not Done |
+| 21  | Ruby | Not Done |
+| 22  | Groovy  | Not Done |
+| 23  | Nim  | Not Done |
+| 24  | Python  | Not Done |
+| 25  | Commodore BASIC  | Not Done |
