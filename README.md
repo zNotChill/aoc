@@ -1,3 +1,11 @@
+# Advent of Code
+
+@BlockArchitech and @zNotChill try to advent of code. (*but fail*)
+
+# 2022 AoC
+
+Every day we will use a new language.
+
 | Day  | Language  |
 |---|---|
 | 1  | JavaScript |
